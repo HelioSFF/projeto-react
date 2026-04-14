@@ -1,0 +1,27 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 10px;
+    padding: 20px 0;
+    height: 50px;
+    background-color: #fff
+}
+
+.footer-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-content img{
+    width: 40px;
+    margin-bottom: 1px;
+}
+
+.footer-content p{
+    font-size: 12px;
+    color: #f15b23;
+    margin: 0;
+}
